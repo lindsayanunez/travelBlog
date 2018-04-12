@@ -8,6 +8,19 @@
    background-repeat: no-repeat;
    background-position: center center;
    height: 30em;
+   color:white;
+   text-align: center;
+
+}
+
+.header h1{
+ font-weight: bolder;
+
+}
+
+.header h3{
+  font-weight: bolder;
+
 }
 
 .topics ul{
