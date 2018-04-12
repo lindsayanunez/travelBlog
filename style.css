@@ -6,3 +6,16 @@
    background-position: center center;
    height: 30em;
 }
+
+.topics ul{
+  list-style: none;
+  text-align: center;
+}
+
+.topics ul li{
+  display: inline-block;
+}
+
+.topics ul li img{
+  max-width: 20em;
+}
