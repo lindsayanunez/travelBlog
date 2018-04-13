@@ -43,4 +43,9 @@ li{
 .socialMedaiStrip{
   background-color: #39c9bb;
   height:4em;
+  color: white;
+}
+
+.socialMedaiStrip ul li{
+  padding: 1em 2em;
 }
