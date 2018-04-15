@@ -63,11 +63,27 @@ li{
 
 /**************As Featured In**************/
 .featured{
+  position: relative;
   background-color: #F0F0F0;
   margin: 3em 0;
   height: 9em;
 }
 
+.featured h4{
+  position: absolute;
+    top: 35%;
+    left: 15%;
+}
+
+.featured ul{
+  position: absolute;
+    top:35%;
+    left: 35%;
+}
+
+.featured ul li{
+  padding: 0 1em;
+}
 /**************Social Media Strip**************/
 .socialMedaiStrip{
   background-color: #39c9bb;
