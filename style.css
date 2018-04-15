@@ -42,14 +42,24 @@ li{
   display: inline-block;
 }
 
+/**************TOPICS**************/
+.topicContainer{
+  position: relative;
+  width:70%;
+}
+
+.topicContainer button{
+  position: absolute;
+  top:50%;
+  left: 50%;
+}
+
 .topics ul li img{
   max-width: 20em;
 }
 
-.topics ul li button{
 
-}
-
+/**************Social Media Strip**************/
 .socialMedaiStrip{
   background-color: #39c9bb;
   height:4em;
