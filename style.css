@@ -77,12 +77,16 @@ li{
 
 .featured ul{
   position: absolute;
-    top:35%;
+    top:45%;
     left: 35%;
 }
 
 .featured ul li{
   padding: 0 1em;
+}
+
+.featured li span{
+  font-weight: black;
 }
 /**************Social Media Strip**************/
 .socialMedaiStrip{
