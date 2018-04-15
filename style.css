@@ -46,12 +46,15 @@ li{
 .topicContainer{
   position: relative;
   width:70%;
+  padding: 3em 1em;
 }
 
 .topicContainer button{
   position: absolute;
   top:50%;
   left: 50%;
+  width: 5em;
+  color:#39c9bb;
 }
 
 .topics ul li img{
