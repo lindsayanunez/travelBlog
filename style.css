@@ -2,7 +2,9 @@
   font-family: "Raleway", sans-serif;
 }
 /***********************NAV***********************/
-
+.navbar-default .navbar-nav .active a{
+  color:#39c9bb;
+}
 
 
 /***********************HEADER***********************/
