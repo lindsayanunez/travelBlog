@@ -25,7 +25,12 @@
   font-weight: normal;
   font-size: 18px;
   margin-top: 0.2em;
+}
 
+.introText{
+color:#696969;
+padding:5em;
+text-align: center;
 }
 
 ul{
