@@ -112,6 +112,15 @@ li{
 .sampleBlog{
   max-width:70%;
 }
+ .sampleBlog img{
+    max-width: 100%;
+
+ }
+
+.blogInfo{
+  border: 3px solid #696969;
+    max-width: 100%;
+}
 
 
 
