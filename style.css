@@ -110,7 +110,7 @@ li{
 /**************Social Media Strip**************/
 
 .sampleBlog{
-  max-width:70%;
+  max-width: 55em;
 }
  .sampleBlog img{
     max-width: 100%;
@@ -118,8 +118,9 @@ li{
  }
 
 .blogInfo{
-  border: 3px solid #696969;
-    max-width: 100%;
+  border: 1px solid #696969;
+  max-width: 100%;
+  padding:2em;
 }
 
 
