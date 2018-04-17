@@ -123,6 +123,18 @@ li{
   padding:2em;
 }
 
+.sampleBlog time{
+font-size: 0.75em;
+color: gray;
+}
+
+.sampleBlog h3{
+  font-weight: bolder;
+}
+
+.sampleBlog h3:hover{
+  color: #39c9bb;
+}
 
 
 
