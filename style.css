@@ -151,5 +151,14 @@ color: gray;
   color:white;
 }
 
+.footer a{
+  color:white;
+}
+
+.footer a:hover{
+  color: #39c9bb;
+}
+
+
 
 
