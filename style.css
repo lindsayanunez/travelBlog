@@ -142,9 +142,14 @@ color: gray;
 .sampleBlog i{
   text-align: left;
 }
+/**************FOOTER**************/
 
-#696969
-
+.footer{
+  margin-top: 10em;
+  padding: 2em 0;
+  background-color:#696969;
+  color:white;
+}
 
 
 
