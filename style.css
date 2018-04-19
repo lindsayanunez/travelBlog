@@ -101,6 +101,7 @@ li{
   background-color: #39c9bb;
   height:4em;
   color: white;
+  margin-top: 5em;
 }
 
 .socialMedaiStrip ul li{
@@ -111,6 +112,7 @@ li{
 
 .sampleBlog{
   max-width: 55em;
+  margin-top: 5em;
 }
  .sampleBlog img{
     max-width: 100%;
@@ -118,7 +120,7 @@ li{
  }
 
 .blogInfo{
-  border: 1px solid #696969;
+  border: 0.25px solid #696969;
   max-width: 100%;
   padding:2em;
   margin-top: -1.5em;
@@ -137,7 +139,11 @@ color: gray;
   color: #39c9bb;
 }
 
+.sampleBlog i{
+  text-align: left;
+}
 
+#696969
 
 
 
