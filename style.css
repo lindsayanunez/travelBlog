@@ -172,3 +172,7 @@ color: gray;
   max-width: 30em;
   padding-top: 6em;
  }
+
+.aboutMe a{
+  color:#39c9bb;
+}
