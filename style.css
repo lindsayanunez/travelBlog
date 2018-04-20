@@ -163,5 +163,12 @@ color: gray;
   text-align: left;
 }
 
+/**************FOOTER**************/
+ .aboutMe .aboutText{
+  padding: 6em;
+ }
 
-
+ .aboutMe img{
+  max-width: 30em;
+  padding-top: 6em;
+ }
